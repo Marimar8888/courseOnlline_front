@@ -299,7 +299,8 @@ La licencia MIT permite a cualquier persona utilizar, copiar, modificar, fusiona
 
 Para una presentación detallada del proyecto, incluidos diagramas y explicaciones, consulta los siguientes documentos:
 
-- [Diagrama de Arquitectura](docs/ARCHITECTURE_DIAGRAM.png)
-- [Diagrama de Flujo del Usuario](docs/USER_FLOW_DIAGRAM.png)
+- [Diagrama de casos de uso](doc/diagrama_casos_usos.png)
+- [Diagrama de actividad](doc/diagrama_de_actividad.png)
+- [Diagrama de secuencia](doc/diagrama_de_secuencia.png)
 
 
